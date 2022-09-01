@@ -13,6 +13,7 @@ I created this repository to collect links that I find useful in the field of ma
 - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+- [R for Data Science (Turkish)](http://tr.r4ds.hadley.nz/index.html)
 
 ### Cheat Sheets for Technical Interviews
 - [SQL Basics Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
@@ -29,7 +30,7 @@ I created this repository to collect links that I find useful in the field of ma
 - [What is a data scientist's career path?](https://www.quora.com/What-is-a-data-scientists-career-path-1?encoded_access_token=b31d09155b024e9fb4ac534d56a6fd5b&force_dialog=1&provider=google&success=True)
 - [What are the skills needed for a data scientist job?](https://www.quora.com/What-are-the-skills-needed-for-a-data-scientist-job)
 - [How do I learn machine learning?](https://www.quora.com/How-do-I-learn-machine-learning-1)
-
+- [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650)
 ### Youtube Channels
 - [DeepLearningAI](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
 - [NYU Deep Learning](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
@@ -40,3 +41,6 @@ I created this repository to collect links that I find useful in the field of ma
 - [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)
 - [Chai Time Data Science](https://www.youtube.com/c/ChaiTimeDataScience)
+
+### Podcasts
+- [Towards Data Science](https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU)
