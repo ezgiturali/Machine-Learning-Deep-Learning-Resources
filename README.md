@@ -33,6 +33,7 @@ I created this repository to collect links that I find useful in the field of ma
 - [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650)
 - [My Amazon Data Scientist Interview Questions — and Answers!](https://pub.towardsai.net/my-amazon-data-scientist-interview-questions-and-answers-9220bd9d01e9)
 - [Data Scientist Job Interview Prep: 7 Steps for Analytics & Inference Track](https://sqlpad.io/tutorial/data-science-interivew-prep) 
+- [Google Data Scientist Interview Questions (Step-by-Step Solutions!)](https://medium.com/@anna.wu9222/google-data-scientist-interview-questions-step-by-step-solutions-63b7403e2a5c)
 
 ### Youtube Channels
 - [DeepLearningAI](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
