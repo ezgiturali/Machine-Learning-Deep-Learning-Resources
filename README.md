@@ -47,6 +47,9 @@ I created this repository to collect links that I find useful in the field of ma
 - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)
 - [Chai Time Data Science](https://www.youtube.com/c/ChaiTimeDataScience)
 - [Edan Meyer](https://www.youtube.com/c/EdanMeyer)
+- [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak/videos)
 
 ### Podcasts
 - [Towards Data Science](https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU)
+- [The TWIML AI Podcast with Sam Charrington](https://www.youtube.com/c/twimlai)
+
