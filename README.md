@@ -35,6 +35,7 @@ I created this repository to collect links that I find useful in the field of ma
 - [Data Scientist Job Interview Prep: 7 Steps for Analytics & Inference Track](https://sqlpad.io/tutorial/data-science-interivew-prep) 
 - [Google Data Scientist Interview Questions (Step-by-Step Solutions!)](https://medium.com/@anna.wu9222/google-data-scientist-interview-questions-step-by-step-solutions-63b7403e2a5c)
 - [Spotify data scientist interview case study](https://leonwei.com/spotify-data-scientist-interview-case-study-37e021a1550d)
+- [NLP Interview Questions](https://www.kdnuggets.com/2022/10/nlp-interview-questions.html)
 
 ### Youtube Channels
 - [DeepLearningAI](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
