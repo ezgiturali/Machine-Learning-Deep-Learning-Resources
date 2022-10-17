@@ -49,6 +49,7 @@ I created this repository to collect links that I find useful in the field of ma
 - [Chai Time Data Science](https://www.youtube.com/c/ChaiTimeDataScience)
 - [Edan Meyer](https://www.youtube.com/c/EdanMeyer)
 - [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak/videos)
+- [Mert Cobanov](https://www.youtube.com/c/MertCobanov) (Turkish)
 
 ### Podcasts
 - [Towards Data Science](https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU)
