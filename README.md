@@ -14,7 +14,7 @@ I created this repository to collect links that I find useful in the field of ma
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 - [R for Data Science (Turkish)](http://tr.r4ds.hadley.nz/index.html)
-
+- [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 ### Cheat Sheets for Technical Interviews
 - [SQL Basics Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
 - [SQL Cheat Sheet](https://www.stratascratch.com/blog/sql-cheat-sheet-technical-concepts-for-the-job-interview/)
