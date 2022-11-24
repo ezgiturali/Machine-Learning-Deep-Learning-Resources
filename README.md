@@ -50,7 +50,7 @@ I created this repository to collect links that I find useful in the field of ma
 - [Edan Meyer](https://www.youtube.com/c/EdanMeyer)
 - [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak/videos)
 - [Mert Cobanov](https://www.youtube.com/c/MertCobanov) (Turkish)
-
+- [Mısra Turp](https://www.youtube.com/@misraturp)
 ### Podcasts
 - [Towards Data Science](https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU)
 - [The TWIML AI Podcast with Sam Charrington](https://www.youtube.com/c/twimlai)
