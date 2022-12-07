@@ -36,6 +36,9 @@ I created this repository to collect links that I find useful in the field of ma
 - [Google Data Scientist Interview Questions (Step-by-Step Solutions!)](https://medium.com/@anna.wu9222/google-data-scientist-interview-questions-step-by-step-solutions-63b7403e2a5c)
 - [Spotify data scientist interview case study](https://leonwei.com/spotify-data-scientist-interview-case-study-37e021a1550d)
 - [NLP Interview Questions](https://www.kdnuggets.com/2022/10/nlp-interview-questions.html)
+- [Machine Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/machine-learning-interview-questions-answers-7265e34d07cc#:~:text=stochastic%20gradient%20descent.-,Q9%3A%20Explain%20what%20is%20information%20gain%20and%20entropy%20in%20the%20context%20of%20decision%20trees%3F,-Entropy%20and%20Information)
+- [Deep Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/deep-learning-interview-questions-answers-439163d3fc02)
+- [Python Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/python-interview-questions-answers-740444cd8897)
 
 ### Youtube Channels
 - [DeepLearningAI](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
