@@ -54,6 +54,11 @@ I created this repository to collect links that I find useful in the field of ma
 - [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak/videos)
 - [Mert Cobanov](https://www.youtube.com/c/MertCobanov) (Turkish)
 - [Mısra Turp](https://www.youtube.com/@misraturp)
+- [Stanford CS224U: Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
+- [CMU Advanced NLP 2022](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
+- [CMU Multilingual NLP 2022](https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7)
+- [UMass CS685: Advanced Natural Language Processing](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
+
 ### Podcasts
 - [Towards Data Science](https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU)
 - [The TWIML AI Podcast with Sam Charrington](https://www.youtube.com/c/twimlai)
