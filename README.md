@@ -59,6 +59,9 @@ I created this repository to collect links that I find useful in the field of ma
 - [CMU Multilingual NLP 2022](https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7)
 - [UMass CS685: Advanced Natural Language Processing](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
 
+### Useful Repos 
+- [coderserdar/Documents](https://github.com/coderserdar/Documents)
+
 ### Podcasts
 - [Towards Data Science](https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU)
 - [The TWIML AI Podcast with Sam Charrington](https://www.youtube.com/c/twimlai)
