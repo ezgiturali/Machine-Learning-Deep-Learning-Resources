@@ -61,6 +61,7 @@ I created this repository to collect links that I find useful in the field of ma
 
 ### Useful Repos 
 - [coderserdar/Documents](https://github.com/coderserdar/Documents)
+- [eugeneyan/applied-ml ](https://github.com/eugeneyan/applied-ml)
 
 ### Podcasts
 - [Towards Data Science](https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU)
