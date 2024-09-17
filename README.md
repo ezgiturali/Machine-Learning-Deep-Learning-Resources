@@ -41,7 +41,7 @@ I created this repository to collect links that I find useful in the field of ma
 - [Machine Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/machine-learning-interview-questions-answers-7265e34d07cc#:~:text=stochastic%20gradient%20descent.-,Q9%3A%20Explain%20what%20is%20information%20gain%20and%20entropy%20in%20the%20context%20of%20decision%20trees%3F,-Entropy%20and%20Information)
 - [Deep Learning Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/deep-learning-interview-questions-answers-439163d3fc02)
 - [Python Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/python-interview-questions-answers-740444cd8897)
-- [2024 Guide: 23 Data Science Case Study Interview Questions (with Solutions)]([https://youssefraafat57.medium.com/python-interview-questions-answers-740444cd8897](https://www.interviewquery.com/p/data-science-case-study-interview-questions#modeling-and-machine-learning-case-questions))
+- [2024 Guide: 23 Data Science Case Study Interview Questions (with Solutions)](https://www.interviewquery.com/p/data-science-case-study-interview-questions#modeling-and-machine-learning-case-questions)
 
 ### Youtube Channels
 - [DeepLearningAI](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
